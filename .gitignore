@@ -1,4 +1,5 @@
 spirometry_data/
+python_run_output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
